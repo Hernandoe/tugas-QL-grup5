@@ -1,6 +1,6 @@
 # tugas-QL-grup5
 
-Sebagai syarat untuk memenuhi tugas RL 18 April 2022
+Sebagai syarat untuk memenuhi tugas RL 18 April 2022 </br>
 Kelompok :
   1. M. Azis pangestu, Khasanah Ilmi, 1051914
   2. Aisyah Sekar Ayu Dzikron, Khasanah Ilmi, 1908667
